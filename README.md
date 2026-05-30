@@ -11,12 +11,14 @@
 - Solve DSA problems consistently
 - Build impactful projects
 
-## Tech Stack
+## 🛠️ Tech Stack
+
 - C++
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Git & GitHub
+- Git
+- GitHub
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/abhi-builds-ai
