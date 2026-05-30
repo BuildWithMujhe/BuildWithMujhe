@@ -22,3 +22,9 @@
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/abhi-builds-ai
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuildWithMujhe&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithMujhe&layout=compact)
