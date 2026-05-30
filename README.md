@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Abhinav 👋
 
-<!--
-**BuildWithMujhe/BuildWithMujhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Data Structures & Algorithms
+- Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals for 2026:
+- Become a strong Full Stack Developer
+- Solve DSA problems consistently
+- Build impactful projects
+
+## Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/abhi-builds-ai
