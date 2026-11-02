@@ -1,35 +1,35 @@
-# Hey, I'm Abhinav 👋
+# Hi, I'm Abhinav Kumar
 
-🎓 B.Tech Student
+I'm a B.Tech student interested in software development and problem-solving. I enjoy learning new technologies, building projects, and improving my coding skills.
 
-🌱 Currently building projects and improving problem-solving skills through DSA and Web Development.
+## About Me
 
-## 💻 Currently Learning
+- Currently learning Data Structures & Algorithms.
+- Exploring Full Stack Web Development.
+- Interested in building practical projects.
+- Always looking to learn and improve as a developer.
 
-* Data Structures & Algorithms
-* Full Stack Web Development
+## Tech Stack
 
-## 🚀 Goals for 2026
+- **Programming Language:** C++
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub
 
-* Become a strong Full Stack Developer
-* Solve DSA problems consistently
-* Build impactful projects
+## Current Focus
 
-## 🛠️ Tech Stack
+- Strengthening DSA fundamentals.
+- Learning Full Stack Development.
+- Building projects and gaining practical experience.
+- Improving problem-solving and coding skills.
 
-* C++
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* GitHub
+## Goals for 2026
 
-## 📈 Current Focus
+- Become a skilled Full Stack Developer.
+- Maintain consistency in DSA practice.
+- Build meaningful projects.
+- Keep growing as a developer.
 
-* Strengthening DSA fundamentals
-* Building Full Stack Development skills
-* Creating projects and sharing them on GitHub
+## Connect With Me
 
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/abhi-builds-ai/
+- **GitHub:** [BuildWithMujhe](https://github.com/BuildWithMujhe)
+- **LinkedIn:** [Abhinav Kumar](https://www.linkedin.com/in/abhi-builds-ai/)
